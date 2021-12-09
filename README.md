@@ -2,7 +2,7 @@
 
 - Você deve criar uma aplicação front-end utilizando angular na versão 6 ou superior;
 - Utilize **boas práticas** de desenvolvimento e **componentização**. Essa é sua oportunidade de demonstrar suas habilidades;
-- Não nos importamos se a solução estiver *incompleta*, estamos interessados em ver a construção da sua solução;
+- Não nos importamos se a solução estiver **incompleta**, estamos interessados em ver a construção da sua solução;
 - Não é obrigatório seguir fielmente as cores e icones do guia (veja no final do teste), mas é importante seguir a mesma estrutura;
 - Você pode utilizar qualquer framework ou componente de terceiros que desejar;
 

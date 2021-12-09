@@ -21,7 +21,11 @@
 # Teste
 
 **API:** https://api.helena.app/test/
+
 **Documentação:** https://api.helena.app/test/swagger
+
+Os dados expostos pela API acima são restaurados de tempos em tempos, não se preocupe com isso. 
+
 
 **1 - Construa uma interface que liste todas as empresas e seus dados conforme a API acima;**
 
